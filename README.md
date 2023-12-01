@@ -10,3 +10,7 @@ Then you need to download **tkinter for  the gui** if your on **Linux** witch yo
 If your on **windows** you just need to install python and just rghit click the **py-file** and click **Open**
 
 if your on mac this wont work sorry
+---
+# How to code in GUISCLFB
+---
+havent made it fully yet
