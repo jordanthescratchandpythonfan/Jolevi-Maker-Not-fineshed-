@@ -1,4 +1,4 @@
-# Jolevi-Maker-Not-fineshed-
+# Jolevi Maker
 This is jolevi Maker using our coding language called GUISCLFB
 ---
 # How to install it
