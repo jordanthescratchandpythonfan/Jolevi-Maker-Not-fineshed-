@@ -1,5 +1,4 @@
-# Jolevi Maker
-This is jolevi Maker using our coding language called GUISCLFB
+# JSGUICL (Simplifyed Graphical user interface Coding Languge)
 ---
 # How to install it
 #### This will require you to install some files
@@ -11,6 +10,6 @@ If your on **windows** you just need to install python and just rghit click the 
 
 if your on mac this wont work sorry
 ---
-# How to code in GUISCLFB
+# How to code in JSGUICL (Jolevi Simplifyed Graphical user interface Coding Languge)
 ---
 havent made it fully yet
